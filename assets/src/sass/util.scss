@@ -1,0 +1,43 @@
+@import './_variables.scss';
+
+.margin-s {
+	margin: 24px 0;
+}
+
+.margin-m {
+	margin: 48px 0;
+}
+
+.margin-l {
+	margin: 72px 0;
+}
+
+.Traffic-fade {
+	animation: Traffic-fadein 0.4s;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+.flex {
+	display: flex;
+}
+
+.cf:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+@keyframes Traffic-fadein {
+	from {
+		opacity: 0
+	}
+	to {
+		opacity: 1
+	}
+}
