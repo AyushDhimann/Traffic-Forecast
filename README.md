@@ -52,9 +52,9 @@ Stats will be collected right away after you install and activate the plugin. Yo
 
 You can contribute to Traffic Forecast in many different ways. For example:
 
+
 - Write about the plugin on your blog or share it on social media.
-- [Vote on features in the GitHub issue list](https://github.com/Trailblazers/Traffic-Forecast/issues?q=is%3Aopen+is%3Aissue+label%3A%22feature+suggestion%22).
-- [Translate the plugin into your language](https://translate.wordpress.org/projects/wp-plugins/Traffic-Forecast/stable/) using your WordPress.org account.
+
 - Help fund development and support costs through [Traffic Forecast on OpenCollective](https://opencollective.com/Traffic-Forecast).
 
 ### License
