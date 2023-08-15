@@ -18,7 +18,6 @@ Traffic Forecast
 ## Pending Features
 
 - To send Wordpress Data to Tableau.
-- Representation of Data in Tableau.
 
 ### How to install
 
