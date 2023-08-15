@@ -24,7 +24,7 @@ Traffic Forecast
 
 To install the Traffic Forecast plugin,
 
-1. Download the Traffic Forecast plugin from the ![Release](https://github.com/AyushDhimann/Traffic-Forecast/releases/tag/plugin) page.
+1. Download the Traffic Forecast plugin from the [Release](https://github.com/AyushDhimann/Traffic-Forecast/releases/tag/plugin) page.
 2. Head over to your Wordpress Dashboard and click on **Plugins**,
 3. Click on **Add New**.
 4. Click on **Upload Plugin** and upload the Traffic Forecast plugin.
