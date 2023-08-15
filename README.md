@@ -58,6 +58,12 @@ Build the plugin assets by issuing the following command:
 npm run build
 ```
 
+
+## Credits
+
+Thanks to [dannyvankooten's](https://github.com/dannyvankooten) organization, [ibericodes](https://github.com/ibericode) repository [koko-analytics](https://github.com/ibericode/koko-analytics) for making the best open-source wordpress analytics [plugin](https://www.kokoanalytics.com/).
+
 ### License
 
 GNU General Public License v3.0
+
