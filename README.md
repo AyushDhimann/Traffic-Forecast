@@ -40,7 +40,7 @@ To run the latest development version of the plugin, take the following steps.
 
 First, clone the repository using Git in your `/wp-content/plugins/` directory
 ```
-git clone git@github.com:Trailblazers/Traffic-Forecast.git
+git clone git@github.com:AyushDhimann/Traffic-Forecast.git
 ```
 
 Create the autoloader using Composer.
