@@ -1,10 +1,12 @@
-Traffic Forecast
-===========
+# Traffic Forecast
 
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ![Screenshot of the Traffic Forecast dashboard](https://github.com/AyushDhimann/Traffic-Forecast/blob/master/src/original.png)
 
+## Working Demo on Youtube
+
+[![Watch the video](https://img.youtube.com/vi/7Y-3RdS5jDA/hqdefault.jpg)](https://www.youtube.com/watch?v=7Y-3RdS5jDA)
 
 ## Features
 
